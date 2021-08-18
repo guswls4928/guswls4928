@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guswls4928
-- 👀 I’m interested in various language
-- 🌱 I’m currently learning base of UX
+- 👋 Hi, I’m Hyeon JinHyeok
+- 👀 I’m interested in studing various language
+- 🌱 I’m currently learning base of UI/UX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
